@@ -1,0 +1,40 @@
+body{
+  background-color: #8a613b;
+  text-align: center;
+}
+.words{
+  color: white;
+  font-size: 4rem;
+  text-align: center;
+  margin: auto;
+  padding: 50px;
+}
+.counter{
+  background-color: #ffffff;
+  border-style:none;
+  border-radius: 40px;
+  box-shadow: 0 0 30px #162a3d;
+  color: blue;
+  font-size: 15rem;
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  margin: 20px auto;
+}
+
+.mybox{
+  background-color: #143b61;
+  border-radius: 40px;
+  box-shadow: 0 0 40px #999999;
+  margin: 20px auto;
+  width:500px;
+}
+
+.signature{
+  padding-bottom: 30px;
+}
+
+p{
+  color: white;
+  text-align: center;
+}
